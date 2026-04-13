@@ -1,3 +1,9 @@
+# Aidan Mack
+# Zmf103
+# 11418299
+# Cmpt 146
+# Section 10
+
 def most_common_word(filename):
     '''
     :param filename:
