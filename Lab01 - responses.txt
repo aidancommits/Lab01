@@ -1,0 +1,9 @@
+C:\Users\aidan\OneDrive\Desktop\Uni Work\Labs\Cmpt 146 + Assignment 07 onwards\Lab01>git log
+commit 3579baa9467deb222d5ed3f9a29e6d80d2e28bf2 (HEAD -> main, origin/main, origin/HEAD)
+Author: aidancommits <133075272+aidancommits@users.noreply.github.com>
+Date:   Mon Apr 13 15:33:34 2026 -0600
+
+    Usask Cmpt146 Lab 01 E Eng
+
+Most common word: words
+Count: 5
